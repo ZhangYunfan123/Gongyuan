@@ -12,9 +12,6 @@ keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
 url: https://zhangyunfan123.github.io/Gongyuan/
 established_at: "2016-10-01T00:00+08:00"
 
-# author: iROCKBUNNY
-# author_url: https://irockbunny.com
-# organization: TEELAB
 # organization_url: https://teelab.net
 # contact: contact[at]irockbunny[dot]com
 
@@ -32,7 +29,7 @@ exclude:
 - .travis.yml
 - LICENSE
 - README.md
-- CNAME
+# - CNAME
 - Gemfile
 - Gemfile.lock
 - script
